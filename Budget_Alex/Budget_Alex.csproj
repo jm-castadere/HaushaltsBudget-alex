@@ -185,6 +185,7 @@
     <Content Include="Images\Budget.png" />
     <Content Include="Images\Eco.ico" />
     <Content Include="Images\Eco.png" />
+    <Content Include="Test JMC.txt" />
     <Content Include="WebLinks.txt" />
   </ItemGroup>
   <ItemGroup>
