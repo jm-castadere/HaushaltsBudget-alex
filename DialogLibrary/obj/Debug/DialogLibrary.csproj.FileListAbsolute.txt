@@ -1,0 +1,42 @@
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework_Part2\DialogLibrary\bin\Debug\DialogLibrary.dll
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework_Part2\DialogLibrary\bin\Debug\DialogLibrary.pdb
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework_Part2\DialogLibrary\obj\Debug\DialogLibrary.csprojResolveAssemblyReference.cache
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework_Part2\DialogLibrary\obj\Debug\DialogLibrary.dll
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework_Part2\DialogLibrary\obj\Debug\DialogLibrary.pdb
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework_Part_3\DialogLibrary\bin\Debug\DialogLibrary.dll
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework_Part_3\DialogLibrary\bin\Debug\DialogLibrary.pdb
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework_Part_3\DialogLibrary\obj\Debug\DialogLibrary.csprojResolveAssemblyReference.cache
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework_Part_3\DialogLibrary\obj\Debug\DialogLibrary.dll
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework_Part_3\DialogLibrary\obj\Debug\DialogLibrary.pdb
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\DialogLibrary\bin\Debug\DialogLibrary.dll
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\DialogLibrary\bin\Debug\DialogLibrary.pdb
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\DialogLibrary\obj\Debug\DialogLibrary.csprojAssemblyReference.cache
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\DialogLibrary\obj\Debug\DialogLibrary.csproj.CoreCompileInputs.cache
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\DialogLibrary\obj\Debug\DialogLibrary.dll
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\DialogLibrary\obj\Debug\DialogLibrary.pdb
+C:\JMC\Project\_AlexBudget\_Current\DialogLibrary\bin\Debug\DialogLibrary.dll
+C:\JMC\Project\_AlexBudget\_Current\DialogLibrary\bin\Debug\DialogLibrary.pdb
+C:\JMC\Project\_AlexBudget\_Current\DialogLibrary\obj\Debug\DialogLibrary.csproj.CoreCompileInputs.cache
+C:\JMC\Project\_AlexBudget\_Current\DialogLibrary\obj\Debug\DialogLibrary.dll
+C:\JMC\Project\_AlexBudget\_Current\DialogLibrary\obj\Debug\DialogLibrary.pdb
+C:\JMC-Project\_Current\DialogLibrary\bin\Debug\DialogLibrary.dll
+C:\JMC-Project\_Current\DialogLibrary\bin\Debug\DialogLibrary.pdb
+C:\JMC-Project\_Current\DialogLibrary\obj\Debug\DialogLibrary.csproj.CoreCompileInputs.cache
+C:\JMC-Project\_Current\DialogLibrary\obj\Debug\DialogLibrary.dll
+C:\JMC-Project\_Current\DialogLibrary\obj\Debug\DialogLibrary.pdb
+C:\JMC-Project\_Current\DialogLibrary\obj\Debug\DialogLibrary.csprojAssemblyReference.cache
+C:\JMC-Project\AlexBudget\Budget\DialogLibrary\bin\Debug\DialogLibrary.dll
+C:\JMC-Project\AlexBudget\Budget\DialogLibrary\bin\Debug\DialogLibrary.pdb
+C:\JMC-Project\AlexBudget\Budget\DialogLibrary\obj\Debug\DialogLibrary.csproj.CoreCompileInputs.cache
+C:\JMC-Project\AlexBudget\Budget\DialogLibrary\obj\Debug\DialogLibrary.dll
+C:\JMC-Project\AlexBudget\Budget\DialogLibrary\obj\Debug\DialogLibrary.pdb
+C:\JMC-Project\AlexBudget\Budget\DialogLibrary\obj\Debug\DialogLibrary.csprojAssemblyReference.cache
+C:\JMC\Project\_AlexBudget\Budget\Budget\DialogLibrary\bin\Debug\DialogLibrary.dll
+C:\JMC\Project\_AlexBudget\Budget\Budget\DialogLibrary\bin\Debug\DialogLibrary.pdb
+C:\JMC\Project\_AlexBudget\Budget\Budget\DialogLibrary\obj\Debug\DialogLibrary.csproj.CoreCompileInputs.cache
+C:\JMC\Project\_AlexBudget\Budget\Budget\DialogLibrary\obj\Debug\DialogLibrary.dll
+C:\JMC\Project\_AlexBudget\Budget\Budget\DialogLibrary\obj\Debug\DialogLibrary.pdb
+C:\JMC-Project\Alex_Budget\HaushaltBudget\Budget_MSsql\DialogLibrary\bin\Debug\DialogLibrary.dll
+C:\JMC-Project\Alex_Budget\HaushaltBudget\Budget_MSsql\DialogLibrary\bin\Debug\DialogLibrary.pdb
+C:\JMC-Project\Alex_Budget\HaushaltBudget\Budget_MSsql\DialogLibrary\obj\Debug\DialogLibrary.dll
+C:\JMC-Project\Alex_Budget\HaushaltBudget\Budget_MSsql\DialogLibrary\obj\Debug\DialogLibrary.pdb

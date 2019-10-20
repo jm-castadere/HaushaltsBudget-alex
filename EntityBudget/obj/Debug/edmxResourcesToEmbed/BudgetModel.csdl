@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BudgetModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="BudgetDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Budget" EntityType="BudgetModel.Budget" />
+  </EntityContainer>
+  <EntityType Name="Budget">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IsEin" Type="Boolean" />
+    <Property Name="IsFixe" Type="Boolean" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="150" FixedLength="false" Unicode="true" />
+    <Property Name="Nr" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Summe" Type="Double" Nullable="false" />
+    <Property Name="SummeEffectiv" Type="Double" Nullable="false" />
+    <Property Name="SummeRest" Type="Double" Nullable="false" />
+    <Property Name="DateCreate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="DateChange" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Jahr" Type="Int16" />
+    <Property Name="Monate" Type="Int16" />
+  </EntityType>
+</Schema>

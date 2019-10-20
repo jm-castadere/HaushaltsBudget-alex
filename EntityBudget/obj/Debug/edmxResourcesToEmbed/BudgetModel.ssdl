@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BudgetModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Budget">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IsEin" Type="bit" />
+    <Property Name="IsFixe" Type="bit" />
+    <Property Name="Name" Type="nvarchar" MaxLength="150" Nullable="false" />
+    <Property Name="Nr" Type="nvarchar" MaxLength="50" />
+    <Property Name="Summe" Type="float" Nullable="false" />
+    <Property Name="SummeEffectiv" Type="float" Nullable="false" />
+    <Property Name="SummeRest" Type="float" Nullable="false" />
+    <Property Name="DateCreate" Type="date" Nullable="false" />
+    <Property Name="DateChange" Type="date" Nullable="false" />
+    <Property Name="Jahr" Type="smallint" />
+    <Property Name="Monate" Type="smallint" />
+  </EntityType>
+  <EntityContainer Name="BudgetModelStoreContainer">
+    <EntitySet Name="Budget" EntityType="Self.Budget" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

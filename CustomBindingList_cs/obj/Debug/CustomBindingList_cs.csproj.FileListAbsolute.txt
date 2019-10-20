@@ -1,0 +1,52 @@
+C:\Dotnet_C_Coding\VS2015\MSDN_WindowForms_EntityFramework\CustomBindingList_cs\bin\Debug\CustomBindingList_cs.dll
+C:\Dotnet_C_Coding\VS2015\MSDN_WindowForms_EntityFramework\CustomBindingList_cs\bin\Debug\CustomBindingList_cs.pdb
+C:\Dotnet_C_Coding\VS2015\MSDN_WindowForms_EntityFramework\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.csprojResolveAssemblyReference.cache
+C:\Dotnet_C_Coding\VS2015\MSDN_WindowForms_EntityFramework\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.dll
+C:\Dotnet_C_Coding\VS2015\MSDN_WindowForms_EntityFramework\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.pdb
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework\CustomBindingList_cs\bin\Debug\CustomBindingList_cs.dll
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework\CustomBindingList_cs\bin\Debug\CustomBindingList_cs.pdb
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.csprojResolveAssemblyReference.cache
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.dll
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.pdb
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework_Part2\CustomBindingList_cs\bin\Debug\CustomBindingList_cs.dll
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework_Part2\CustomBindingList_cs\bin\Debug\CustomBindingList_cs.pdb
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework_Part2\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.csprojResolveAssemblyReference.cache
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework_Part2\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.dll
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework_Part2\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.pdb
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework_Part_3\CustomBindingList_cs\bin\Debug\CustomBindingList_cs.dll
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework_Part_3\CustomBindingList_cs\bin\Debug\CustomBindingList_cs.pdb
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework_Part_3\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.csprojResolveAssemblyReference.cache
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework_Part_3\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.dll
+C:\Dotnet_Development\VS2015\MSDN_WindowForms_EntityFramework_Part_3\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.pdb
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\CustomBindingList_cs\bin\Debug\CustomBindingList_cs.dll
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\CustomBindingList_cs\bin\Debug\CustomBindingList_cs.pdb
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.csproj.CoreCompileInputs.cache
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.dll
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.pdb
+C:\JMC\Project\_AlexBudget\_Current\CustomBindingList_cs\bin\Debug\CustomBindingList_cs.dll
+C:\JMC\Project\_AlexBudget\_Current\CustomBindingList_cs\bin\Debug\CustomBindingList_cs.pdb
+C:\JMC\Project\_AlexBudget\_Current\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.csproj.CoreCompileInputs.cache
+C:\JMC\Project\_AlexBudget\_Current\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.dll
+C:\JMC\Project\_AlexBudget\_Current\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.pdb
+C:\JMC-Project\_Current\CustomBindingList_cs\bin\Debug\CustomBindingList_cs.dll
+C:\JMC-Project\_Current\CustomBindingList_cs\bin\Debug\CustomBindingList_cs.pdb
+C:\JMC-Project\_Current\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.csproj.CoreCompileInputs.cache
+C:\JMC-Project\_Current\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.dll
+C:\JMC-Project\_Current\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.pdb
+C:\JMC-Project\_Current\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.csprojAssemblyReference.cache
+C:\JMC-Project\AlexBudget\Budget\CustomBindingList_cs\bin\Debug\CustomBindingList_cs.dll
+C:\JMC-Project\AlexBudget\Budget\CustomBindingList_cs\bin\Debug\CustomBindingList_cs.pdb
+C:\JMC-Project\AlexBudget\Budget\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.csproj.CoreCompileInputs.cache
+C:\JMC-Project\AlexBudget\Budget\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.dll
+C:\JMC-Project\AlexBudget\Budget\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.pdb
+C:\JMC-Project\AlexBudget\Budget\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.csprojAssemblyReference.cache
+C:\JMC\Project\_AlexBudget\Budget\Budget\CustomBindingList_cs\bin\Debug\CustomBindingList_cs.dll
+C:\JMC\Project\_AlexBudget\Budget\Budget\CustomBindingList_cs\bin\Debug\CustomBindingList_cs.pdb
+C:\JMC\Project\_AlexBudget\Budget\Budget\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.csproj.CoreCompileInputs.cache
+C:\JMC\Project\_AlexBudget\Budget\Budget\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.dll
+C:\JMC\Project\_AlexBudget\Budget\Budget\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.pdb
+C:\JMC-Project\Alex_Budget\HaushaltBudget\Budget_MSsql\CustomBindingList_cs\bin\Debug\CustomBindingList_cs.dll
+C:\JMC-Project\Alex_Budget\HaushaltBudget\Budget_MSsql\CustomBindingList_cs\bin\Debug\CustomBindingList_cs.pdb
+C:\JMC-Project\Alex_Budget\HaushaltBudget\Budget_MSsql\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.dll
+C:\JMC-Project\Alex_Budget\HaushaltBudget\Budget_MSsql\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.pdb
+C:\JMC-Project\Alex_Budget\HaushaltBudget\Budget_MSsql\CustomBindingList_cs\obj\Debug\CustomBindingList_cs.csprojAssemblyReference.cache

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BudgetModelStoreContainer" CdmEntityContainer="BudgetDBEntities">
+    <EntitySetMapping Name="Budget">
+      <EntityTypeMapping TypeName="BudgetModel.Budget">
+        <MappingFragment StoreEntitySet="Budget">
+          <ScalarProperty Name="Monate" ColumnName="Monate" />
+          <ScalarProperty Name="Jahr" ColumnName="Jahr" />
+          <ScalarProperty Name="DateChange" ColumnName="DateChange" />
+          <ScalarProperty Name="DateCreate" ColumnName="DateCreate" />
+          <ScalarProperty Name="SummeRest" ColumnName="SummeRest" />
+          <ScalarProperty Name="SummeEffectiv" ColumnName="SummeEffectiv" />
+          <ScalarProperty Name="Summe" ColumnName="Summe" />
+          <ScalarProperty Name="Nr" ColumnName="Nr" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="IsFixe" ColumnName="IsFixe" />
+          <ScalarProperty Name="IsEin" ColumnName="IsEin" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

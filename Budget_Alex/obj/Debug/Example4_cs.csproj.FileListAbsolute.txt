@@ -1,0 +1,88 @@
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_3a\Example1_cs\bin\Debug\Example1_cs.exe.config
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_3a\Example1_cs\bin\Debug\Example1_cs.exe
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_3a\Example1_cs\bin\Debug\Example1_cs.pdb
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_3a\Example1_cs\bin\Debug\CustomBindingList_cs.dll
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_3a\Example1_cs\bin\Debug\DialogLibrary.dll
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_3a\Example1_cs\bin\Debug\EntityFramework.dll
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_3a\Example1_cs\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_3a\Example1_cs\bin\Debug\EntityFrameWorkNorthWind_cs.dll
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_3a\Example1_cs\bin\Debug\CustomBindingList_cs.pdb
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_3a\Example1_cs\bin\Debug\DialogLibrary.pdb
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_3a\Example1_cs\bin\Debug\EntityFrameWorkNorthWind_cs.pdb
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_3a\Example1_cs\bin\Debug\EntityFramework.xml
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_3a\Example1_cs\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_3a\Example1_cs\obj\Debug\Example4_cs.csprojResolveAssemblyReference.cache
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_3a\Example1_cs\obj\Debug\Example1_cs.EditorForm.resources
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_3a\Example1_cs\obj\Debug\Example1_cs.Form1.resources
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_3a\Example1_cs\obj\Debug\Example1_cs.Properties.Resources.resources
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_3a\Example1_cs\obj\Debug\Example4_cs.csproj.GenerateResource.Cache
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_3a\Example1_cs\obj\Debug\Example1_cs.exe
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_3a\Example1_cs\obj\Debug\Example1_cs.pdb
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_4\Example1_cs\bin\Debug\Example1_cs.exe.config
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_4\Example1_cs\obj\Debug\Example1_cs.exe
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_4\Example1_cs\obj\Debug\Example1_cs.pdb
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_4\Example1_cs\bin\Debug\Example1_cs.exe
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_4\Example1_cs\bin\Debug\Example1_cs.pdb
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_4\Example1_cs\bin\Debug\CustomBindingList_cs.dll
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_4\Example1_cs\bin\Debug\DialogLibrary.dll
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_4\Example1_cs\bin\Debug\EntityFramework.dll
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_4\Example1_cs\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_4\Example1_cs\bin\Debug\EntityFrameWorkNorthWind_cs.dll
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_4\Example1_cs\bin\Debug\CustomBindingList_cs.pdb
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_4\Example1_cs\bin\Debug\DialogLibrary.pdb
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_4\Example1_cs\bin\Debug\EntityFrameWorkNorthWind_cs.pdb
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_4\Example1_cs\bin\Debug\EntityFramework.xml
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_4\Example1_cs\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_4\Example1_cs\obj\Debug\Example4_cs.csprojResolveAssemblyReference.cache
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_4\Example1_cs\obj\Debug\Example1_cs.EditorForm.resources
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_4\Example1_cs\obj\Debug\Example1_cs.Form1.resources
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_4\Example1_cs\obj\Debug\Example1_cs.Properties.Resources.resources
+C:\Dotnet_C_Coding\0EF\MSDN_WindowForms_EntityFramework_Part_4\Example1_cs\obj\Debug\Example4_cs.csproj.GenerateResource.Cache
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\bin\Debug\Example1_cs.exe.config
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\bin\Debug\Example1_cs.exe
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\bin\Debug\Example1_cs.pdb
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\bin\Debug\CustomBindingList_cs.dll
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\bin\Debug\DialogLibrary.dll
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\bin\Debug\EntityFramework.dll
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\bin\Debug\EntityFramework.SqlServer.dll
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\bin\Debug\EntityFrameWorkNorthWind_cs.dll
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\bin\Debug\CustomBindingList_cs.pdb
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\bin\Debug\DialogLibrary.pdb
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\bin\Debug\EntityFrameWorkNorthWind_cs.pdb
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\bin\Debug\EntityFrameWorkNorthWind_cs.dll.config
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\bin\Debug\EntityFramework.xml
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\bin\Debug\EntityFramework.SqlServer.xml
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\obj\Debug\Example4_cs.csprojAssemblyReference.cache
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\obj\Debug\Example1_cs.EditorForm.resources
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\obj\Debug\Example1_cs.Properties.Resources.resources
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\obj\Debug\Example4_cs.csproj.GenerateResource.cache
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\obj\Debug\Example4_cs.csproj.CoreCompileInputs.cache
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\obj\Debug\Example4_cs.csproj.CopyComplete
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\obj\Debug\Example1_cs.exe
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\obj\Debug\Example1_cs.pdb
+C:\JMC\Project\_AlexBudget\Entity Framework in Windows forms part 4\C#\Example1_cs\obj\Debug\Example1_cs.frmMain.resources
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\bin\Debug\NORTHWND.MDF
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\bin\Debug\NORTHWND_log.ldf
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\bin\Debug\Example1_cs.exe.config
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\bin\Debug\Example1_cs.exe
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\bin\Debug\Example1_cs.pdb
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\bin\Debug\CustomBindingList_cs.dll
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\bin\Debug\DialogLibrary.dll
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\bin\Debug\EntityFramework.dll
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\bin\Debug\EntityFramework.SqlServer.dll
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\bin\Debug\EntityFrameWorkNorthWind_cs.dll
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\bin\Debug\CustomBindingList_cs.pdb
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\bin\Debug\DialogLibrary.pdb
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\bin\Debug\EntityFrameWorkNorthWind_cs.pdb
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\bin\Debug\EntityFrameWorkNorthWind_cs.dll.config
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\bin\Debug\EntityFramework.xml
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\bin\Debug\EntityFramework.SqlServer.xml
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\obj\Debug\Example4_cs.csprojAssemblyReference.cache
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\obj\Debug\Example1_cs.EditorForm.resources
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\obj\Debug\Example1_cs.frmMain.resources
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\obj\Debug\Example1_cs.Properties.Resources.resources
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\obj\Debug\Example4_cs.csproj.GenerateResource.cache
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\obj\Debug\Example4_cs.csproj.CoreCompileInputs.cache
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\obj\Debug\Example4_cs.csproj.CopyComplete
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\obj\Debug\Example1_cs.exe
+C:\JMC\Project\_AlexBudget\_Current\Example1_cs\obj\Debug\Example1_cs.pdb
