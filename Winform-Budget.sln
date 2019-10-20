@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomBindingList_cs", "CustomBindingList_cs\CustomBindingList_cs.csproj", "{4D52B0AA-977B-4CBD-8F5F-8636E3A76A89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Budget_Alex", "Budget_Alex\Budget_Alex.csproj", "{4CD18684-56A7-4B65-BB4B-C526F6B866BA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C2424EF1-381D-4C15-920F-B2785DF22C56} = {C2424EF1-381D-4C15-920F-B2785DF22C56}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialogLibrary", "DialogLibrary\DialogLibrary.csproj", "{8C9BBBED-4DC9-45C8-B1B9-5E5D7AF6454C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityBudget", "EntityBudget\EntityBudget.csproj", "{C2424EF1-381D-4C15-920F-B2785DF22C56}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AlexBudgetSetup", "AlexBudgetSetup\AlexBudgetSetup.vdproj", "{6FAD1CD8-CCAC-4867-8EB3-2CE49E596EF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D52B0AA-977B-4CBD-8F5F-8636E3A76A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D52B0AA-977B-4CBD-8F5F-8636E3A76A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D52B0AA-977B-4CBD-8F5F-8636E3A76A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D52B0AA-977B-4CBD-8F5F-8636E3A76A89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD18684-56A7-4B65-BB4B-C526F6B866BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD18684-56A7-4B65-BB4B-C526F6B866BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD18684-56A7-4B65-BB4B-C526F6B866BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD18684-56A7-4B65-BB4B-C526F6B866BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C9BBBED-4DC9-45C8-B1B9-5E5D7AF6454C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9BBBED-4DC9-45C8-B1B9-5E5D7AF6454C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C9BBBED-4DC9-45C8-B1B9-5E5D7AF6454C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C9BBBED-4DC9-45C8-B1B9-5E5D7AF6454C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2424EF1-381D-4C15-920F-B2785DF22C56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2424EF1-381D-4C15-920F-B2785DF22C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2424EF1-381D-4C15-920F-B2785DF22C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2424EF1-381D-4C15-920F-B2785DF22C56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FAD1CD8-CCAC-4867-8EB3-2CE49E596EF6}.Debug|Any CPU.ActiveCfg = Debug
+		{6FAD1CD8-CCAC-4867-8EB3-2CE49E596EF6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD659E0B-D301-41D3-B665-7FD8268CBD03}
+	EndGlobalSection
+EndGlobal
